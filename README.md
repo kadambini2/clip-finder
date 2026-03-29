@@ -4,9 +4,9 @@ A powerful **visual similarity search app** using the CLIP model to match upload
 
 > ✅ Built with: `CLIP`, `Transformers`, `Streamlit`, `PIL`, `PyTorch`, `scikit-learn`
 
-![GitHub Repo stars](https://img.shields.io/github/stars/rakshath66/clipfindr?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rakshath66/clipfindr?style=social)
-![MIT License](https://img.shields.io/github/license/rakshath66/clipfindr)
+![GitHub Repo stars](https://img.shields.io/github/stars/kadambini/clipfindr?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kadambini/clipfindr?style=social)
+![MIT License](https://img.shields.io/github/license/kadambini/clipfindr)
 
 ---
 
@@ -38,7 +38,7 @@ A powerful **visual similarity search app** using the CLIP model to match upload
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/rakshath66/clipfindr.git
+git clone https://github.com/kadambini2/clipfindr.git
 cd clipfindr
 
 # 2. (Optional) Create a virtual environment
@@ -110,7 +110,7 @@ CLIP is loaded directly via Hugging Face — no tokens required.
 
 ## 📃 License
 
-MIT License © [Rakshath U Shetty](https://github.com/rakshath66)
+fetw License © [kadambini bpujari](https://github.com/kadambini2)
 
 ---
 
@@ -129,6 +129,4 @@ MIT License © [Rakshath U Shetty](https://github.com/rakshath66)
 * 🖼️ Visual heatmap of similarity
 * 🌐 Optional: add BLIP-based captioning
 
----
 
-### 🧑‍💻 Built by [Rakshath U Shetty](https://www.linkedin.com/in/rakshathushetty/)
